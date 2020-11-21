@@ -1,6 +1,6 @@
 
 
-## ikeaware (slightly pasted cheat:D)
+## ikeaware (aka samoware fixed source)
 > internal rage and legit cheat for cs:go
 
 ## "soma projects" community servers
